@@ -1,0 +1,4 @@
+/login
+    /totp-verification
+    /create-account
+/home
